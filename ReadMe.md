@@ -5,3 +5,5 @@ This repository is my collection of stock wallpapers, or others, feel free to us
 
 ## Credits:
 - **Unsplash Free** (https://unsplash.com/). The credits to the artists / photographers are in the name of the Images.
+
+- **Wallpaper Cave** (https://wallpapercave.com/). All credits belong to the original artist / photographer.
