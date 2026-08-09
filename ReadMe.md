@@ -10,6 +10,8 @@
 ## Credits:
 - **Unsplash Free** (https://unsplash.com/). The credits to the artists / photographers are in the name of the Images.
 
+- **Pexels** (https://www.pexels.com/). Credits to the artists and photographers are in names of the Images.
+
 - **Wallpaper Cave** (https://wallpapercave.com/). All credits belong to the original artist / photographer.
 <br>
 
